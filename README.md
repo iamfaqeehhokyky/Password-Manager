@@ -1,5 +1,5 @@
 # Password-Manager
-A Software developed to generate a strong and secured password for a user's and save their online details into a directory that can be access anytime.
+This is a Software developed to generate a strong and secured password for a user's and save their online details into a directory that can be access anytime.
 
 In the world where everything is changing rapidly, everybody needs technology to solve complex issues and want to keep at it with ease.
 
